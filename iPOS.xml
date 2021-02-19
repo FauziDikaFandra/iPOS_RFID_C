@@ -1,0 +1,249 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>iPOS</name>
+    </assembly>
+    <members>
+        <member name="P:iPOS.frmFirstForm.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmMemberTrans.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmSizeBag.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmSizeBagAll.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmSPG.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmSplash.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmCard.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmCardPromo.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmCashOpen.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmDisc.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmHarga.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.InputMember.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmkaryawan.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.MemberRegistration.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmLogin.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmMain.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmNum.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmPassword.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmPayment.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmPaymentSelf.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmSales.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmSalesSelf.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmSOD.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmValid.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmView.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmView2.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="P:iPOS.frmShowStock.Default">
+            <summary>
+            Added by the VB.Net to C# Converter to support default instance behavour in C#
+            </summary>
+        </member>
+        <member name="T:My.Resources.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._1280px_Visa_svg">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources._8a88630e_1fe9_4784_9008_dcc0eb9b7914">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.b7eb32b6_affb_4d31_b256_82ba1255c8b8">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.b7eb32b6_affb_4d31_b256_82ba1255c8b81">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.b7eb32b6_affb_4d31_b256_82ba1255c8b82">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.bag_2__dTN_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.bag_xNf_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.bag_Xyg_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.cara_c">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.cash">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.debit_bca_green_logo_D8EE725387_seeklogo_com">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Gopayok">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.iconfinder_11___Valid_1815560">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.iconfinder_11___Valid_18155601">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.mastercard_1_82737">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.Other">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.plastic_bag_QJ2_icon">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+        <member name="P:My.Resources.Resources.visa_master">
+            <summary>
+              Looks up a localized resource of type System.Drawing.Bitmap.
+            </summary>
+        </member>
+    </members>
+</doc>
